@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(241, 241, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+#one{
+    text-align: center;
+    background-color: rgba(7, 71, 245, 0.822);
+    color: white;
+    padding: 13px 10px 13px 10px;
+    margin: 10px auto;
+    font-size: 17px;
+    
+}
+#two{
+    width: 180px;
+    padding: 20px auto;
+    margin: 0px 20px 5px 230px;
+    height: 65px;
+}
+li{
+    display: inline;
+    list-style-type: none;
+    padding: 10px auto;
+    margin: 5px 3px 5px 3px;
+   
+
+}
+ul{
+    margin: -50px 0px 10px 650px;
+}
+
+.carousel-item{
+    height: 500px;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.btn{
+    background-color: rgb(241, 241, 243);
+    border-color:   rgb(241, 241, 243);
+    font-size: 17px;
+    border-radius: 1em;
+    color: black ;
+}
+#intro{
+    color: green;
+    border-color: rgb(3, 90, 3);
+    font-family:  Times;
+    font-weight: 400;
+    font-style: inherit;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    text-shadow: 0px 2px 7px rgb(16, 65, 172);
+    
+}
+#logo{
+    width: 60px;
+    margin: 5px 50px 10px 730px;
+
+}
+p{
+    
+    color: rgb(19, 18, 18);
+    font-size: 17px;
+    margin: 10px 200px 10px 200px ;
+    padding: 10px;
+}
+.btn-group{
+    min-width: 50pz;
+}
+.footer{
+    color: rgb(170, 170, 170);
+    background-color: rgb(29, 29, 29);
+    margin: 10px 10px 10px 10px;
+    padding: 20px 10px 20px 220px;
+    font-size: 15px;
+    margin: 10px auto;
+}
